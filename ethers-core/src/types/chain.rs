@@ -360,7 +360,6 @@ impl Chain {
             Boba |
             ZkSync |
             ZkSyncTestnet |
-            Mantle |
             MantleTestnet |
             PolygonZkEvm |
             PolygonZkEvmTestnet |
@@ -377,6 +376,7 @@ impl Chain {
             Base |
             BaseGoerli |
             BaseSepolia |
+            Mantle |
             Optimism |
             OptimismGoerli |
             OptimismSepolia |
